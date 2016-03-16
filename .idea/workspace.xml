@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e40bce4f-fad0-4d72-8793-605e71feccad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gittest.py" afterPath="$PROJECT_DIR$/gittest.py" />
-    </list>
+    <list default="true" id="e40bce4f-fad0-4d72-8793-605e71feccad" name="Default" comment="" />
     <ignored path="RepositoryTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +24,8 @@
       <file leaf-file-name="gittest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gittest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22240527">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.19769357">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -273,8 +271,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gittest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22240527">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.19769357">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
